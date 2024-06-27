@@ -20,13 +20,13 @@ while True:
             else:
                 print("Incorrect.")
         
-        # Print the final score
+        
         print(f"Your final score is: {score}")
-        break  # Exit the loop after the quiz is finished
+        break  
 
     elif initial == 'N':
         print("We won't miss you.")
-        quit()  # Exit the program
+        quit()  
     else:
         print("Please enter one of the given values: 'Y' or 'N'.")
 
