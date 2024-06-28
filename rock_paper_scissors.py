@@ -1,3 +1,6 @@
+#Difficulty:Easy
+#what is the point? Rock Paper Scissors
+#################################################
 import random
 
 options = ['rock', 'paper', 'scissors']
