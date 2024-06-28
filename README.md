@@ -2,4 +2,5 @@
 <ul>
   <li>Quiz Game</li>
   <li>Number Guessing Game</li>
+  <li>Rock Paper Scissors</li>
 </ul>
