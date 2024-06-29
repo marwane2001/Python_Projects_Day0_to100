@@ -1,4 +1,4 @@
-#Difficulty: Meduim
+#Difficulty: Medium
 #What's the point a python script to download youtube videos
 #################################################################################################
 from pytube import YouTube
