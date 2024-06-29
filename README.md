@@ -7,6 +7,6 @@
   <li>Choose your game</li>
   <h1>Difficulty Medium</h1>
   <li>Youtube Video Downloader</li>
-  <h1>Difficulty Medium</h1>
+  <h1>Difficulty Advanced</h1>
   
 </ul>
