@@ -1,4 +1,4 @@
-<center><h1>Python_Projects_Zero_To_Hero</h1></center>
+<<h1>Python_Projects_Zero_To_Hero </h1>
 <ul>
   <h1>Difficulty Easy</h1>
   <li>Quiz Game</li>
