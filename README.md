@@ -5,6 +5,7 @@
   <li>Number Guessing Game</li>
   <li>Rock Paper Scissors</li>
   <li>Choose your game</li>
+  <li>Tic-Tac-Toe</li>
   <h1>Difficulty Medium</h1>
   <li>Youtube Video Downloader</li>
   <li>Realtime Bandwith Monitor</li>
