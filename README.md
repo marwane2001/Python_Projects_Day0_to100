@@ -11,7 +11,7 @@
   <li>Realtime Bandwith Monitor</li>
   <li>Selenium Automation</li>
   <h1>Difficulty Advanced</h1>
-  
+  <li>Snake Game</li>
   
   
 </ul>
