@@ -11,6 +11,7 @@
   <li>Realtime Bandwith Monitor</li>
   <li>Selenium Automation</li>
   <li>Alarm Clock</li>
+  <li>AI_Calulator</li>
   <h1>Difficulty Advanced</h1>
   <li>Snake Game</li>
   
