@@ -15,6 +15,7 @@
   <li>AI_Calulator</li>
   <h1>Difficulty Advanced</h1>
   <li>Snake Game</li>
+  <li>Automated Email Sender</li>
   
   
 </ul>
